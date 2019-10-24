@@ -1,0 +1,410 @@
+[
+    {
+        "cls": 1,
+        "name": "Alpine sea holly"
+    },
+    {
+        "cls": 2,
+        "name": "Anthurium"
+    },
+    {
+        "cls": 3,
+        "name": "Artichoke"
+    },
+    {
+        "cls": 4,
+        "name": "Azalea"
+    },
+    {
+        "cls": 5,
+        "name": "Ball Moss"
+    },
+    {
+        "cls": 6,
+        "name": "Balloon Flower"
+    },
+    {
+        "cls": 7,
+        "name": "Barbeton Daisy"
+    },
+    {
+        "cls": 8,
+        "name": "Bearded Iris"
+    },
+    {
+        "cls": 9,
+        "name": "Bee Balm"
+    },
+    {
+        "cls": 10,
+        "name": "Bird of paradise"
+    },
+    {
+        "cls": 11,
+        "name": "Bishop of llandaff"
+    },
+    {
+        "cls": 12,
+        "name": "Blackberry Lily"
+    },
+    {
+        "cls": 13,
+        "name": "Black-eyed Susan"
+    },
+    {
+        "cls": 14,
+        "name": "Blanket flower"
+    },
+    {
+        "cls": 15,
+        "name": "Bolero deep blue"
+    },
+    {
+        "cls": 16,
+        "name": "Bougainvillea"
+    },
+    {
+        "cls": 17,
+        "name": "Bromelia"
+    },
+    {
+        "cls": 18,
+        "name": "Buttercup"
+    },
+    {
+        "cls": 19,
+        "name": "Californian Poppy"
+    },
+    {
+        "cls": 20,
+        "name": "Camellia"
+    },
+    {
+        "cls": 21,
+        "name": "Canna Lily"
+    },
+    {
+        "cls": 22,
+        "name": "Canterbury Bells"
+    },
+    {
+        "cls": 23,
+        "name": "Cape Flower"
+    },
+    {
+        "cls": 24,
+        "name": "Carnation"
+    },
+    {
+        "cls": 25,
+        "name": "Cautleya Spicata"
+    },
+    {
+        "cls": 26,
+        "name": "Clematis"
+    },
+    {
+        "cls": 27,
+        "name": "Colt's Foot"
+    },
+    {
+        "cls": 28,
+        "name": "Columbine"
+    },
+    {
+        "cls": 29,
+        "name": "Common Dandelion"
+    },
+    {
+        "cls": 30,
+        "name": "Corn poppy"
+    },
+    {
+        "cls": 31,
+        "name": "Cyclamen"
+    },
+    {
+        "cls": 32,
+        "name": "Daffodil"
+    },
+    {
+        "cls": 33,
+        "name": "Desert-rose"
+    },
+    {
+        "cls": 34,
+        "name": "English Marigold"
+    },
+    {
+        "cls": 35,
+        "name": "Fire Lily"
+    },
+    {
+        "cls": 36,
+        "name": "Foxglove"
+    },
+    {
+        "cls": 37,
+        "name": "Frangipani"
+    },
+    {
+        "cls": 38,
+        "name": "Fritillary"
+    },
+    {
+        "cls": 39,
+        "name": "Garden Phlox"
+    },
+    {
+        "cls": 40,
+        "name": "Gaura"
+    },
+    {
+        "cls": 41,
+        "name": "Gazania"
+    },
+    {
+        "cls": 42,
+        "name": "Geranium"
+    },
+    {
+        "cls": 43,
+        "name": "Giant white arum lily"
+    },
+    {
+        "cls": 44,
+        "name": "Globe Thistle"
+    },
+    {
+        "cls": 45,
+        "name": "Globe-flower"
+    },
+    {
+        "cls": 46,
+        "name": "Grape Hyacinth"
+    },
+    {
+        "cls": 47,
+        "name": "Great Masterwort"
+    },
+    {
+        "cls": 48,
+        "name": "Hard-leaved pocket orchid"
+    },
+    {
+        "cls": 49,
+        "name": "Hibiscus"
+    },
+    {
+        "cls": 50,
+        "name": "Hippeastrum"
+    },
+    {
+        "cls": 51,
+        "name": "Japanese Anemone"
+    },
+    {
+        "cls": 52,
+        "name": "King Protea"
+    },
+    {
+        "cls": 53,
+        "name": "Lenten Rose"
+    },
+    {
+        "cls": 54,
+        "name": "Lotus"
+    },
+    {
+        "cls": 55,
+        "name": "Love in the mist"
+    },
+    {
+        "cls": 56,
+        "name": "Magnolia"
+    },
+    {
+        "cls": 57,
+        "name": "Mallow"
+    },
+    {
+        "cls": 58,
+        "name": "Marigold"
+    },
+    {
+        "cls": 59,
+        "name": "Mexican Aster"
+    },
+    {
+        "cls": 60,
+        "name": "Mexican Petunia"
+    },
+    {
+        "cls": 61,
+        "name": "Monkshood"
+    },
+    {
+        "cls": 62,
+        "name": "Moon Orchid"
+    },
+    {
+        "cls": 63,
+        "name": "Morning Glory"
+    },
+    {
+        "cls": 64,
+        "name": "Orange Dahlia"
+    },
+    {
+        "cls": 65,
+        "name": "Osteospermum"
+    },
+    {
+        "cls": 66,
+        "name": "Oxeye Daisy"
+    },
+    {
+        "cls": 67,
+        "name": "Passion Flower"
+    },
+    {
+        "cls": 68,
+        "name": "Pelargonium"
+    },
+    {
+        "cls": 69,
+        "name": "Peruvian Lily"
+    },
+    {
+        "cls": 70,
+        "name": "Petunia"
+    },
+    {
+        "cls": 71,
+        "name": "Pincushion flower"
+    },
+    {
+        "cls": 72,
+        "name": "Pink Primrose"
+    },
+    {
+        "cls": 73,
+        "name": "Pink-yellow Dahlia"
+    },
+    {
+        "cls": 74,
+        "name": "Poinsettia"
+    },
+    {
+        "cls": 75,
+        "name": "Primula"
+    },
+    {
+        "cls": 76,
+        "name": "Prince of wales feathers"
+    },
+    {
+        "cls": 77,
+        "name": "Purple Coneflower"
+    },
+    {
+        "cls": 78,
+        "name": "Red Ginger"
+    },
+    {
+        "cls": 79,
+        "name": "Rose"
+    },
+    {
+        "cls": 80,
+        "name": "Ruby-lipped Cattleya"
+    },
+    {
+        "cls": 81,
+        "name": "Siam Tulip"
+    },
+    {
+        "cls": 82,
+        "name": "Silverbush"
+    },
+    {
+        "cls": 83,
+        "name": "Snapdragon"
+    },
+    {
+        "cls": 84,
+        "name": "Spear Thistle"
+    },
+    {
+        "cls": 85,
+        "name": "Spring Crocus"
+    },
+    {
+        "cls": 86,
+        "name": "Stemless Gentian"
+    },
+    {
+        "cls": 87,
+        "name": "Sunflower"
+    },
+    {
+        "cls": 88,
+        "name": "Sweet pea"
+    },
+    {
+        "cls": 89,
+        "name": "Sweet William"
+    },
+    {
+        "cls": 90,
+        "name": "Sword Lily"
+    },
+    {
+        "cls": 91,
+        "name": "Thorn Apple"
+    },
+    {
+        "cls": 92,
+        "name": "Tiger Lily"
+    },
+    {
+        "cls": 93,
+        "name": "Toad Lily"
+    },
+    {
+        "cls": 94,
+        "name": "Tree Mallow"
+    },
+    {
+        "cls": 95,
+        "name": "Tree Poppy"
+    },
+    {
+        "cls": 96,
+        "name": "Trumpet Creeper"
+    },
+    {
+        "cls": 97,
+        "name": "Wallflower"
+    },
+    {
+        "cls": 98,
+        "name": "Water Lily"
+    },
+    {
+        "cls": 99,
+        "name": "Watercress"
+    },
+    {
+        "cls": 100,
+        "name": "Wild Pansy"
+    },
+    {
+        "cls": 101,
+        "name": "Windflower"
+    },
+    {
+        "cls": 102,
+        "name": "Yellow Iris"
+    }
+]
